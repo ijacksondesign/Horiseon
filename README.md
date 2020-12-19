@@ -11,7 +11,7 @@
 
 ## Description <a name="description"></a>
 Horiseon is the first weekly challenge of many in my Coding Bootcamp and is meant to simulate an on-the-job ticket scenario where I am given the task of refactoring existing code.
-The final website can be viewed [here](https://ijacksondesign.github.io/Horiseon/)
+The final website can be viewed at [https://ijacksondesign.github.io/Horiseon/](https://ijacksondesign.github.io/Horiseon/)
 
 ## The Challenge <a name="challenge"></a>
 Horiseon is a digital marketing agency looking to update their existing website code to follow accessibility standards so that their website is optimized for search engines.
