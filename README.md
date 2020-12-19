@@ -20,7 +20,7 @@ Horiseon is a digital marketing agency looking to update their existing website 
 1. HTML file has semantic elements
 1. HTML file follows a logical structure
 1. Images have accessible alt attributes
-1. CSS file has been consolidated and redunt code has been removed
+1. CSS file has been consolidated and redundant code has been removed
 1. Both the HTML and CSS files have proper comments to quickly understand what the code is doing
 
 ## The Method <a name="method"></a>
@@ -28,7 +28,7 @@ Horiseon is a digital marketing agency looking to update their existing website 
 
 1. **Step 2:** Next I opened the HTML file and did a quick run through and made comments throughout that labeled the different parts of the file so that whenever someone viewed the code it was easy to tell what was where. 
 
-1. **Step 3:** Then I ran through the CSS file making comments and taking note of areaswhere code could be consolidated. 
+1. **Step 3:** Then I ran through the CSS file making comments and taking note of areas where code could be consolidated. 
 
 1. **Step 4:** Began the process of tweaking the code. 
     1. Swapped out divs for more descriptive elements such as header, footer, nav, section, article, and aside. 
@@ -36,9 +36,9 @@ Horiseon is a digital marketing agency looking to update their existing website 
     1. Replaced multiple styles with universal styles to get rid of repetive CSS code
 
 ## Final Result <a name="results"></a>
-After refactoring, Horiseon's website still looks and functions the same, but if one was to view their code they would find it to be more accessibility not just for other developers but for search engines and screen readers as well. 
+After refactoring, Horiseon's website still looks and functions the same, but if one was to view the code they would find it to be more accessible, not just for other developers but for search engines and screen readers as well. 
 
-The files now follow semantic elements giving better description to the various sections along with several comments dictating where sections begin and end. 
+The files now use semantic elements giving better description to the various sections along with several comments dictating where sections begin and end. 
 
 ## Reflection <a name="reflection"></a>
 I think this project was a good example of being able to accomplish a task in multiple ways. While the original code still worked and functioned fine, there were still ways that it was able to be improved upon. 
